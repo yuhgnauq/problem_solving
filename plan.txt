@@ -1,0 +1,38 @@
+## Day 1:
+
+Learn about Dynamic Programming: Open terminal and search for resources on DP algorithms including how it works, examples, and applications.
+Learn C++: Learn how to use C++ to solve DP problems.
+Solve basic problems on leetcode.com:
+    Climbing Stairs
+    Fibonacci Number
+    Maximum Subarray
+    House Robber
+
+## Day 2:
+
+Solve intermediate problems on leetcode.com:
+    Unique Paths
+    Best Time to Buy and Sell Stock
+    Coin Change
+    Longest Increasing Subsequence
+
+## Day 3-4:
+
+Solve advanced problems on leetcode.com:
+    Minimum Path Sum
+    Maximum Product Subarray
+    Word Break
+    Decode Ways
+
+## Day 5-6:
+
+Solve more advanced problems on leetcode.com:
+    Edit Distance
+    Longest Palindromic Substring
+    Regular Expression Matching
+    Wildcard Matching
+
+## Day 7:
+
+Practice problems on leetcode.com: Practice more DP problems on leetcode.com to improve coding skills and problem-solving abilities.
+Review learned concepts: Summarize learned concepts to better understand how to solve problems using DP algorithms.
